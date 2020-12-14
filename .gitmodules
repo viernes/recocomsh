@@ -1,0 +1,3 @@
+[submodule "bi_purchase_discount"]
+	path = bi_purchase_discount
+	url = git@github.com:xmarts/bi_purchase_discount.git
